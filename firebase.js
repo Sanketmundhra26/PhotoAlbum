@@ -2,13 +2,12 @@ import { initializeApp } from "firebase/app";
 import { getFirestore } from "firebase/firestore";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyBvXcmjqkNfMS0UGvNrjDSK9P-IFUpe5vs",
-  authDomain: "photofolio-23d04.firebaseapp.com",
-  projectId: "photofolio-23d04",
-  storageBucket: "photofolio-23d04.appspot.com",
-  messagingSenderId: "358983786647",
-  appId: "1:358983786647:web:2a119d209bb220782489d2",
-  measurementId: "G-XD69QY5C3R",
+  apiKey: "AIzaSyC3FvouitWrS1eyzm8LATvjNwo8vtO05os",
+  authDomain: "photopholio-3fac2.firebaseapp.com",
+  projectId: "photopholio-3fac2",
+  storageBucket: "photopholio-3fac2.firebasestorage.app",
+  messagingSenderId: "595750679635",
+  appId: "1:595750679635:web:dabb0d0fa2cdb0b70e42a6"
 };
 
 const app = initializeApp(firebaseConfig);
